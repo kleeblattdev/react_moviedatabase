@@ -1,0 +1,9 @@
+.movies article {
+    text-align: center;
+    border: 1px solid lightcoral;
+    width: 250px;
+    min-height: 300px;
+    background-color: coral;
+    color: white;
+    padding: 10px;
+}
